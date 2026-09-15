@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Startup Funding Analysis Dashboard
+#  Indian Startup Funding Analysis Dashboard
 
 An interactive data analysis and visualization dashboard built using **Python and Streamlit** to explore investment patterns in the Indian startup ecosystem.
 
